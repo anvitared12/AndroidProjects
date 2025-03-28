@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="call"
+        android:id="@+id/myCall"
+        android:icon="@drawable/baseline_call_24"/>
+    <item
+        android:title="info"
+        android:id="@+id/myInfo"
+        android:icon="@drawable/baseline_info_outline_24"/>
+
+</menu>
